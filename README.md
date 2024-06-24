@@ -1,0 +1,1 @@
+# Speech-to-Text-with-OpenAI-s-Whisper
